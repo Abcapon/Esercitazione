@@ -1,6 +1,9 @@
 h2 {
-    color: blue;
+    color: red;
+}
+ul {
+    list-style-type: square;
 }
 li {
-    background-color: yellow;
+    background-color: aquamarine;
 }
